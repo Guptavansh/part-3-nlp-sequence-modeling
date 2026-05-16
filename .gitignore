@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary store files
+*.gsstore
+*.GSStore
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+venv/
