@@ -1,0 +1,43 @@
+Sample Predictions — LSTM Sentiment Classifier
+============================================================
+
+✗ Text    : great service clear communication support team...
+  True    : POSITIVE
+  Predicted: NEGATIVE
+
+✓ Text    : checking scheduled maintenance today...
+  True    : NEUTRAL
+  Predicted: NEUTRAL
+
+✓ Text    : need help finding invoice last order please respond soon possible...
+  True    : NEUTRAL
+  Predicted: NEUTRAL
+
+✓ Text    : delivery late package arrived damaged please respond soon possible...
+  True    : NEGATIVE
+  Predicted: NEGATIVE
+
+✓ Text    : mobile app keeps failing support resolved issue please respond soon po...
+  True    : NEGATIVE
+  Predicted: NEGATIVE
+
+✗ Text    : satisfied plan would recommend others...
+  True    : POSITIVE
+  Predicted: NEGATIVE
+
+✗ Text    : response team helpful professional ticket number...
+  True    : POSITIVE
+  Predicted: NEGATIVE
+
+✓ Text    : router keeps failing support resolved issue...
+  True    : NEGATIVE
+  Predicted: NEGATIVE
+
+✓ Text    : please provide steps activate notifications...
+  True    : NEUTRAL
+  Predicted: NEUTRAL
+
+✓ Text    : product quality bad regret purchasing...
+  True    : NEGATIVE
+  Predicted: NEGATIVE
+
